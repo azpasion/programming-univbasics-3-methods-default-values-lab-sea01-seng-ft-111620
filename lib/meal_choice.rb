@@ -3,4 +3,5 @@
 
 def meal_choice(veggie1, veggie2, protien=tofu)
   puts "What a nutritious meal!"
+  puts "A plate of #{protien} with #{veggie1} and #{veggie2}."
 end
